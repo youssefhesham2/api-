@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="82"
+        android:textSize="20dp"
+        android:textColor="#FFC107"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:id="@+id/id"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="youssef"
+        android:textSize="20dp"
+        android:id="@+id/empolyeename"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="youssef"
+        android:textSize="20dp"
+        android:id="@+id/employee_salary"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="youssef"
+        android:textSize="20dp"
+        android:id="@+id/employee_age"/>
+
+</LinearLayout>
